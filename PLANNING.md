@@ -108,7 +108,7 @@
 
 #### HTML + CSS + Tailwind Development
 
-- Link - [Farewell blueprint]()
+- Link - [Farewell blueprint](https://nyabutibrian.github.io/funeral_website/blueprint/build/)
 
 #### React + Vite Development
 
