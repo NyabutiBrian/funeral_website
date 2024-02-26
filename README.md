@@ -22,12 +22,12 @@
 
 ### Figma Design
 - This section identifies the figma design:
-- Link - [Figma Designs]()
+- [Figma Designs](https://www.figma.com/file/QjaBZ9v60RdA0bXqeuTcFW/Funeral-Website?type=design&node-id=0%3A1&mode=design&t=EIM0LLEPiHYrmnaC-1)
 
 ### HTML + CSS + Tailwind Development
 - This section identifies the code templates. Templates do not have Javascript functionalitiies and animations.
 - The templates are in the folder blueprint.
-- Link - [Fine Touch Salon blueprint](https://nyabutibrian.github.io/funeral_website/blueprint/build/)
+- Link - [Farewell blueprint](https://nyabutibrian.github.io/funeral_website/blueprint/build/)
 
 ## React Development
 - This section identifies the React code development. The templates have been modified to become reactive. 
@@ -37,7 +37,7 @@
 
 ### Links
 
-- Live Site URL: [Fine Touch Salon]()
+- Live Site URL: [Farewell Yunuke Bosibori Nyambane]()
 
 ## Author
 
