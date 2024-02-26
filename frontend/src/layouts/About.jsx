@@ -13,7 +13,7 @@ const About = () => {
                         <h3>In Loving Memories</h3>
                     </div>
                     <div className="max-w-screen-xl mx-auto border-t-4 lg:border-t-0 lg:border-l-4 border-primary py-6 px-8 rounded-3xl shadow-2xl">
-                        <p className="text-xs md:text-base text-primary italic">
+                        <p className="text-sm md:text-base text-primary italic">
                             Join us as we gather to celebrate the life and legacy of <span className="font-semibold">Yunuke Bosibori Nyambane</span>. With heavy hearts and cherished memories, 
                             we come together to pay our respects and bid farewell to a beloved mother, grand mother and a  friend. <br/><br/>
                             Together, we honor <span className="font-semibold">Yunuke Bosibori</span> enduring impact and the love that will forever remain in our hearts.
