@@ -1,4 +1,5 @@
 import React from 'react'
+
 import audio1 from '../assets/audio/Israel_Mbonyi_-_Nitaamini(256k).mp3'
 
 const About = () => {
@@ -13,7 +14,7 @@ const About = () => {
                         <h3>In Loving Memories</h3>
                     </div>
                     <div className="max-w-screen-xl mx-auto border-t-4 lg:border-t-0 lg:border-l-4 border-primary py-6 px-8 rounded-3xl shadow-2xl">
-                        <p className="text-sm md:text-base text-primary italic">
+                        <p className="text-sm md:text-base text-primary">
                             Join us as we gather to celebrate the life and legacy of <span className="font-semibold">Yunuke Bosibori Nyambane</span>. With heavy hearts and cherished memories, 
                             we come together to pay our respects and bid farewell to a beloved mother, grand mother and a  friend. <br/><br/>
                             Together, we honor <span className="font-semibold">Yunuke Bosibori</span> enduring impact and the love that will forever remain in our hearts.
@@ -24,7 +25,7 @@ const About = () => {
                             MPESA ........... <br/>
                             MPESA ............ <br/><br/>
                             
-                            Thank you for your generosity and for standing with us in solidarity during this time of mourning.</p>
+                            Thank you for your generosity and for standing with us during this time of mourning.</p>
                     </div>
 
                 </div>
@@ -40,7 +41,7 @@ const About = () => {
                         </audio>
                     </div>
                     <div className="max-w-screen-xl mx-auto border-t-4 lg:border-t-0 lg:border-l-4 border-primary py-6 px-8 rounded-3xl shadow-2xl">
-                        <p className="text-xs md:text-base text-primary italic">
+                        <p className="text-sm md:text-base text-primary">
                             Sasa naapa Hakuna miungu ntaamini <br/>
                             Satajitia unajisi , Chakula cha ufalme <br/>
                             Na Sitauza urithi wa wokovu, anasa za Kisasa <br/>
