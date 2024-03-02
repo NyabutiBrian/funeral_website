@@ -90,8 +90,8 @@ const Contact = () => {
                         fill out our contact form.
                     </p>
                     <p className="py-2 text-primary font-semibold text-sm">GENERAL INQUIRIES</p>
-                    <p className="font-light text-sm">Contact One: (+254) 700 000 897</p>
-                    <p className="font-light text-sm">Contact Two: (+254) 700 000 897</p>
+                    <p className="font-light text-sm">Contact One: (Will be updated soon)</p>
+                    <p className="font-light text-sm">Contact Two: (Will be updated soon)</p>
                 </div>
 
                 {/* Right */}

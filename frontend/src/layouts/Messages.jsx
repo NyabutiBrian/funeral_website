@@ -29,7 +29,7 @@ const Messages = () => {
             .then(data => {
                 if (data.id) {
                     // Assuming the presence of an 'id' property indicates a successful submission
-                    setSuccessMessage('Message submitted successfully');
+                    setSuccessMessage('Message submitted successfully.');
                     setFullName('');
                     setMessage('');
                     setTimeout(() => {
@@ -72,10 +72,11 @@ const Messages = () => {
 
         <div className="py-4 grid lg:grid-cols-5 gap-8">
             {/* Left */}
-            <div className="lg:col-span-2 bg-primary text-white flex flex-col justify-center px-4 sm:px-16 py-8 rounded-3xl shadow-2xl">
+            <div className="lg:col-span-2 bg-primary text-white flex flex-col justify-start px-4 sm:px-16 py-8 rounded-3xl shadow-2xl">
                 <div className="font-semibold py-2">
-                    <h6 className="text-sm">SHARE, SUPPORT</h6>
+                    <h6 className="text-sm">Let's extend our heartfelt support</h6>
                     <h3 className="text-2xl">WITH A MESSAGE</h3>
+                    <h6 className="text-sm">of love and reflections, serving as a beacon of strength and comfort.</h6>
                 </div>
 
                 <form onSubmit={handleSubmit}>

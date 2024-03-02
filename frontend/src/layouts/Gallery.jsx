@@ -7,6 +7,23 @@ import gallery4 from '../assets/images/gallery4.webp';
 import gallery5 from '../assets/images/gallery5.webp';
 import gallery6 from '../assets/images/gallery6.webp';
 import gallery7 from '../assets/images/gallery7.webp';
+import gallery8 from '../assets/images/gallery8.webp';
+import gallery9 from '../assets/images/gallery9.webp';
+import gallery10 from '../assets/images/gallery10.webp';
+import gallery11 from '../assets/images/gallery11.webp';
+import gallery12 from '../assets/images/gallery12.webp';
+import gallery13 from '../assets/images/gallery13.webp';
+import gallery14 from '../assets/images/gallery14.webp';
+import gallery15 from '../assets/images/gallery15.webp';
+import gallery16 from '../assets/images/gallery16.webp';
+import gallery17 from '../assets/images/gallery17.webp';
+import gallery18 from '../assets/images/gallery18.webp';
+import gallery19 from '../assets/images/gallery19.webp';
+import gallery20 from '../assets/images/gallery20.webp';
+import gallery21 from '../assets/images/gallery21.webp';
+import gallery22 from '../assets/images/gallery22.webp';
+import gallery23 from '../assets/images/gallery23.webp';
+import gallery24 from '../assets/images/gallery24.webp';
 
 const Gallery = () => {
 
@@ -86,6 +103,23 @@ const Gallery = () => {
           <img src={gallery5} alt="Yunuke Bosibori Nyambane" title="Yunuke Bosibori Nyambane" loading="lazy" className="gallery-image transition duration-200 transform hover:scale-105" />
           <img src={gallery6} alt="Yunuke Bosibori Nyambane" title="Yunuke Bosibori Nyambane" loading="lazy" className="gallery-image transition duration-200 transform hover:scale-105" />
           <img src={gallery7} alt="Yunuke Bosibori Nyambane" title="Yunuke Bosibori Nyambane" loading="lazy" className="gallery-image transition duration-200 transform hover:scale-105" />
+          <img src={gallery8} alt="Yunuke Bosibori Nyambane" title="Yunuke Bosibori Nyambane" loading="lazy" className="gallery-image transition duration-200 transform hover:scale-105" />
+          <img src={gallery9} alt="Yunuke Bosibori Nyambane" title="Yunuke Bosibori Nyambane" loading="lazy" className="gallery-image transition duration-200 transform hover:scale-105" />
+          <img src={gallery10} alt="Yunuke Bosibori Nyambane" title="Yunuke Bosibori Nyambane" loading="lazy" className="gallery-image transition duration-200 transform hover:scale-105" />
+          <img src={gallery11} alt="Yunuke Bosibori Nyambane" title="Yunuke Bosibori Nyambane" loading="lazy" className="gallery-image transition duration-200 transform hover:scale-105" />
+          <img src={gallery12} alt="Yunuke Bosibori Nyambane" title="Yunuke Bosibori Nyambane" loading="lazy" className="gallery-image transition duration-200 transform hover:scale-105" />
+          <img src={gallery13} alt="Yunuke Bosibori Nyambane" title="Yunuke Bosibori Nyambane" loading="lazy" className="gallery-image transition duration-200 transform hover:scale-105" />
+          <img src={gallery14} alt="Yunuke Bosibori Nyambane" title="Yunuke Bosibori Nyambane" loading="lazy" className="gallery-image transition duration-200 transform hover:scale-105" />
+          <img src={gallery15} alt="Yunuke Bosibori Nyambane" title="Yunuke Bosibori Nyambane" loading="lazy" className="gallery-image transition duration-200 transform hover:scale-105" />
+          <img src={gallery16} alt="Yunuke Bosibori Nyambane" title="Yunuke Bosibori Nyambane" loading="lazy" className="gallery-image transition duration-200 transform hover:scale-105" />
+          <img src={gallery17} alt="Yunuke Bosibori Nyambane" title="Yunuke Bosibori Nyambane" loading="lazy" className="gallery-image transition duration-200 transform hover:scale-105" />
+          <img src={gallery18} alt="Yunuke Bosibori Nyambane" title="Yunuke Bosibori Nyambane" loading="lazy" className="gallery-image transition duration-200 transform hover:scale-105" />
+          <img src={gallery19} alt="Yunuke Bosibori Nyambane" title="Yunuke Bosibori Nyambane" loading="lazy" className="gallery-image transition duration-200 transform hover:scale-105" />
+          <img src={gallery20} alt="Yunuke Bosibori Nyambane" title="Yunuke Bosibori Nyambane" loading="lazy" className="gallery-image transition duration-200 transform hover:scale-105" />
+          <img src={gallery21} alt="Yunuke Bosibori Nyambane" title="Yunuke Bosibori Nyambane" loading="lazy" className="gallery-image transition duration-200 transform hover:scale-105" />
+          <img src={gallery22} alt="Yunuke Bosibori Nyambane" title="Yunuke Bosibori Nyambane" loading="lazy" className="gallery-image transition duration-200 transform hover:scale-105" />
+          <img src={gallery23} alt="Yunuke Bosibori Nyambane" title="Yunuke Bosibori Nyambane" loading="lazy" className="gallery-image transition duration-200 transform hover:scale-105" />
+          <img src={gallery24} alt="Yunuke Bosibori Nyambane" title="Yunuke Bosibori Nyambane" loading="lazy" className="gallery-image transition duration-200 transform hover:scale-105" />
         </div>
       </div>
 
