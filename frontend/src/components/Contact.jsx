@@ -56,7 +56,7 @@ const Contact = () => {
 
     const handleWhatsAppClick = () => {
         // Replace `1234567890` with your actual WhatsApp number
-        const whatsappUrl = 'https://wa.me/2540798622935';
+        const whatsappUrl = 'https://wa.me/254798622935';
 
         // Open the share dialog
         window.open(whatsappUrl, '_blank');
