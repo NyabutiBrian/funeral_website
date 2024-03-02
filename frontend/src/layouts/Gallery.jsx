@@ -24,6 +24,9 @@ import gallery21 from '../assets/images/gallery21.webp';
 import gallery22 from '../assets/images/gallery22.webp';
 import gallery23 from '../assets/images/gallery23.webp';
 import gallery24 from '../assets/images/gallery24.webp';
+import gallery25 from '../assets/images/gallery25.webp';
+import gallery26 from '../assets/images/gallery26.webp';
+import gallery27 from '../assets/images/gallery27.webp';
 
 const Gallery = () => {
 
@@ -129,6 +132,9 @@ const Gallery = () => {
           <img src={gallery22} alt="Yunuke Bosibori Nyambane" title="Yunuke Bosibori Nyambane" loading="lazy" className="gallery-image transition duration-200 transform hover:scale-105" />
           <img src={gallery23} alt="Yunuke Bosibori Nyambane" title="Yunuke Bosibori Nyambane" loading="lazy" className="gallery-image transition duration-200 transform hover:scale-105" />
           <img src={gallery24} alt="Yunuke Bosibori Nyambane" title="Yunuke Bosibori Nyambane" loading="lazy" className="gallery-image transition duration-200 transform hover:scale-105" />
+          <img src={gallery25} alt="Yunuke Bosibori Nyambane" title="Yunuke Bosibori Nyambane" loading="lazy" className="gallery-image transition duration-200 transform hover:scale-105" />
+          <img src={gallery26} alt="Yunuke Bosibori Nyambane" title="Yunuke Bosibori Nyambane" loading="lazy" className="gallery-image transition duration-200 transform hover:scale-105" />
+          <img src={gallery27} alt="Yunuke Bosibori Nyambane" title="Yunuke Bosibori Nyambane" loading="lazy" className="gallery-image transition duration-200 transform hover:scale-105" />
         </div>
       </div>
 
