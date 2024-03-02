@@ -15,7 +15,7 @@ const Contact = () => {
         const messageValue = event.target.elements.message.value;
         const emailValue = event.target.elements.email.value;
 
-        fetch('https://backend-momanyi.onrender.com/farewell/api/contactus/', {
+        fetch(import.meta.env.VITE_API_CONTACT, {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
