@@ -46,19 +46,19 @@ const About = () => {
                             Maisha ya dunia hii yapita upesi Kama upepo <br />
                             Ni ya masumbuko na huzuni tele mwisho uwe mavumbini Tulale tena...×2 <br /><br />
 
-                            "Bwana naomba nifungulie fahamu zangu ili niweze hesabu siku zangu nilalapo nilale na matumaini .... <br />
-                            kuja kwako Kama siku zangu hazijafika naomba niwe miongoni mwaooo watakaokulaki Kule mbinguni..."×2 <br /><br />
+                            Bwana naomba nifungulie fahamu zangu ili niweze hesabu siku zangu nilalapo nilale na matumaini .... <br />
+                            kuja kwako Kama siku zangu hazijafika naomba niwe miongoni mwaooo watakaokulaki Kule mbinguni...×2 <br /><br />
 
                             ................. <br /><br />
 
-                            Hapa si(hapa sio kwetu...) tu wasafiri na yote yanapita... <br />
+                            Hapa si (hapa sio kwetu...) tu wasafiri na yote yanapita... <br />
                             Tafuta ufalme wa mbingu Maisha ya milele.. upate nafasii ×2 <br /><br />
 
-                            Machozi tutapanguzwa kwa furaha pamoja na wapendwa wetu..×2 <br /><br />
+                            Machozi tutapanguzwa kwa furaha na wapendwa wetu..×2 <br /><br />
 
 
-                            "Bwana nifungulie fahamu zangu ili niweze hesabu siku zangu nilalapo nilale na matumaini .... <br />
-                            kuja kwako Kama siku zangu hazijafika naomba niwe miongoni mwaooo watakaokulaki Kule mbinguni..."×2 <br /><br />
+                            Bwana naomba nifungulie fahamu zangu ili niweze hesabu siku zangu nilalapo nilale na matumaini .... <br />
+                            kuja kwako Kama siku zangu hazijafika naomba niwe miongoni mwaooo watakaokulaki Kule mbinguni...×2 <br /><br />
 
                             <a href='https://www.youtube.com/watch?v=Se3rJX9Y29w' target='Rock of Ages Youtube Video' className='text-xs text-primary font-semibold italic text-end'>Maisha ya Dunia - Rock of Ages Ministers</a>
                         </p>
