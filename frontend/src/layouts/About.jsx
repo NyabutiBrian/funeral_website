@@ -1,6 +1,6 @@
 import React from 'react'
 
-import audio1 from '../assets/audio/Israel_Mbonyi_-_Nitaamini(256k).mp3'
+import audio1 from '../assets/audio/maisha.mp3'
 
 const About = () => {
   return (
@@ -36,38 +36,31 @@ const About = () => {
             <div className="bg-whity rounded-3xl px-6 py-4 shadow-2xl">
                 <div className="py-8">
                     <div className="flex flex-col items-center pb-6">
-                        <p className="font-Poppins text-primary mb-4 font-semibold text-lg">Israel Mbonyi - Nitaamini</p>
+                        <a href='https://www.youtube.com/watch?v=Se3rJX9Y29w' target='Rock of Ages Youtube Video' className="font-Poppins text-primary mb-4 font-semibold text-sm md:text-lg">Rock of Ages Ministers - Maisha ya Dunia</a>
                         <audio controls className="rounded-3xl bg-primary">
                             <source src={audio1} type="audio/mp3" />
                         </audio>
                     </div>
                     <div className="max-w-screen-xl mx-auto border-t-4 lg:border-t-0 lg:border-l-4 border-primary py-6 px-8 rounded-3xl shadow-2xl">
                         <p className="text-sm md:text-base text-primary">
-                            Sasa naapa Hakuna miungu ntaamini <br/>
-                            Satajitia unajisi , Chakula cha ufalme <br/>
-                            Na Sitauza urithi wa wokovu, anasa za Kisasa <br/>
-                            NiNa uhakika waweza , waweza kuniponya, <br/>
-                            Hata usipo niponya Sitaabudu Masanamu <br/><br/>
+                            Maisha ya dunia hii yapita upesi Kama upepo <br />
+                            Ni ya masumbuko na huzuni tele mwisho uwe mavumbini Tulale tena...×2 <br /><br />
 
-                            Naelewa maji na moto nitapita, Kwenye uvuli wa mauti <br/>
-                            Nina wewe sitaogopa kamwe <br/>
-                            Mungu wangu wanishika mkono, Wautuliza moyo wangu, <br/>
-                            Si na mashaka wanibeba mgongoni <br/><br/>
+                            "Bwana naomba nifungulie fahamu zangu ili niweze hesabu siku zangu nilalapo nilale na matumaini .... <br />
+                            kuja kwako Kama siku zangu hazijafika naomba niwe miongoni mwaooo watakaokulaki Kule mbinguni..."×2 <br /><br />
 
-                            Waweza tuma neno la uzima, libadishe yote <br/>
-                            Hata usiyafanye hayo yoote <br/>
-                            Bado nitaamini <br/><br/>
+                            ................. <br /><br />
 
-                            Si Mara y'a kwanza kunitowa katika magumu <br/>
-                            Ni na ushuhuda zaidi ya moja, We ni mwaminifu <br/>
-                            Ni na historia maalum, We ni chemchemi ya uzima. <br/><br/>
+                            Hapa si(hapa sio kwetu...) tu wasafiri na yote yanapita... <br />
+                            Tafuta ufalme wa mbingu Maisha ya milele.. upate nafasii ×2 <br /><br />
 
-                            Nitaamini, bado nitaamini <br/>
-                            Ukiniponya nitaamini, Hata usiniponye bado nitaamini <br/>
-                            Ukinijibu nitaamini , Hata usinijibu bado nitaamini <br/>
-                            Ukibadilisha nitaamini , Hata usibadilishe bado nitaamini <br/>
-                            Kwenye uvuli wa mauti bado nitaamini <br/>
-                            Nina ushuhuda, wewe ni mwaminifu <br/>
+                            Machozi tutapanguzwa kwa furaha pamoja na wapendwa wetu..×2 <br /><br />
+
+
+                            "Bwana nifungulie fahamu zangu ili niweze hesabu siku zangu nilalapo nilale na matumaini .... <br />
+                            kuja kwako Kama siku zangu hazijafika naomba niwe miongoni mwaooo watakaokulaki Kule mbinguni..."×2 <br /><br />
+
+                            <a href='https://www.youtube.com/watch?v=Se3rJX9Y29w' target='Rock of Ages Youtube Video' className='text-xs text-primary font-semibold italic text-end'>Maisha ya Dunia - Rock of Ages Ministers</a>
                         </p>
                     </div>
 
