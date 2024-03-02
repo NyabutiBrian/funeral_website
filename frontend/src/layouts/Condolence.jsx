@@ -7,7 +7,7 @@ const Condolence = () => {
 
     useEffect(() => {
         // Fetch message
-        fetch('https://backend-momanyi.onrender.com/farewell/api/condolence/')
+        fetch(import.meta.env.VITE_api_url_condolence)
             .then(response => response.json())
             .then(data => {
                 setMessages(data);
