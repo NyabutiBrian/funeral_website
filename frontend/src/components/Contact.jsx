@@ -54,6 +54,14 @@ const Contact = () => {
             });
     };
 
+    const handleWhatsAppClick = () => {
+        // Replace `1234567890` with your actual WhatsApp number
+        const whatsappUrl = 'https://wa.me/2540798622935';
+
+        // Open the share dialog
+        window.open(whatsappUrl, '_blank');
+    };
+
   return (
     <section className="py-8 scroll-m-12" id="contactus">
         <div className="bg-whity text-primary rounded-3xl shadow-2xl px-8 py-8 md:py-12">
@@ -90,8 +98,7 @@ const Contact = () => {
                         fill out our contact form.
                     </p>
                     <p className="py-2 text-primary font-semibold text-sm">GENERAL INQUIRIES</p>
-                    <p className="font-light text-sm">Contact One: (Will be updated soon)</p>
-                    <p className="font-light text-sm">Contact Two: (Will be updated soon)</p>
+                    <p className="font-light text-sm">STELLA NYAMBANE: <button onClick={handleWhatsAppClick} className='text-primary font-semibold'>0798622935</button></p>
                 </div>
 
                 {/* Right */}

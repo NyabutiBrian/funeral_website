@@ -91,11 +91,12 @@ const Gallery = () => {
 
   const handleWhatsAppClick = () => {
     // Replace `1234567890` with your actual WhatsApp number
-    const whatsappUrl = 'https://wa.me/700013897';
+    const whatsappUrl = 'https://wa.me/254700013897';
 
     // Open the share dialog
     window.open(whatsappUrl, '_blank');
   };
+
   return (
     <section className="py-16 scroll-m-12" id="gallery">
       <div className="text-center text-primary text-2xl font-semibold">
