@@ -7,7 +7,7 @@ const Condolence = () => {
 
     useEffect(() => {
         // Fetch message
-        fetch(import.meta.env.VITE_api_url_condolence)
+        fetch(import.meta.env.VITE_API_CONDOLENCE)
             .then(response => response.json())
             .then(data => {
                 setMessages(data);
