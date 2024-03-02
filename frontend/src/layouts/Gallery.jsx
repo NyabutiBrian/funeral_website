@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect } from 'react';
 
 import gallery1 from '../assets/images/gallery1.webp';
 import gallery2 from '../assets/images/gallery2.webp';
@@ -88,6 +88,14 @@ const Gallery = () => {
       lightboxOverlay.removeEventListener('click', closeLightbox);
     };
   }, [])
+
+  const handleWhatsAppClick = () => {
+    // Replace `1234567890` with your actual WhatsApp number
+    const whatsappUrl = 'https://wa.me/700013897';
+
+    // Open the share dialog
+    window.open(whatsappUrl, '_blank');
+  };
   return (
     <section className="py-16 scroll-m-12" id="gallery">
       <div className="text-center text-primary text-2xl font-semibold">
@@ -125,6 +133,13 @@ const Gallery = () => {
 
       <div className="hidden lightbox-overlay fixed top-0 left-0 right-0 w-[100%] h-[100%] content-center items-center bg-[#000000cc]" id="lightbox-overlay">
         <img src='' alt="Lightbox Image" className="lightbox-image max-w-[90%] max-h-[60%] mx-auto rounded-3xl" id="lightbox-image"/>
+      </div>
+      
+      <div className='text-center text-primary text-xs font-semibold italic'>
+        <p>Do you have any image and would like to share as well ?</p>
+        <div className="text-white py-2">
+            <button onClick={handleWhatsAppClick} className="bg-primary italic focus:outline-none focus:ring focus:ring-cyan-300 py-3 px-6 rounded-3xl transition duration-200 transform hover:scale-110">Share Image via WhatsApp</button>
+        </div>
       </div>
     </section>
   );
