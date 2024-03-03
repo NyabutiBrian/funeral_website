@@ -9,4 +9,5 @@ html {
 body {
     min-height: 100vh;
     background: linear-gradient(to bottom right, #303D34, #405245);
+    font-family: Poppins;
 }
