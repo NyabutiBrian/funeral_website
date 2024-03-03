@@ -6,12 +6,12 @@ const Navbar = () => {
     <div className="navbar sticky top-0 max-w-7xl mx-auto rounded-3xl bg-primary shadow-2xl text-white font-semibold z-50">
         <div className="navbar-start">
             <div className="dropdown">
-                <div tabIndex="0" role="button" className="btn btn-ghost lg:hidden">
+                <button tabIndex="0" role="button" name='button' className="btn btn-ghost lg:hidden">
                     <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24"
                         stroke="currentColor">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h8m-8 6h16" />
                     </svg>
-                </div>
+                </button>
                 <ul tabIndex="0" className="menu menu-sm dropdown-content mt-3 z-[1] px-2 py-4 shadow-2xl bg-primary rounded-box w-60">
                     <li><a href="#gallery" className="text-lg">Gallery</a></li>
                     <li><a href="#messages" className="text-lg">Testimonials</a></li>

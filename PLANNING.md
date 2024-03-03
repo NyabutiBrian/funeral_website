@@ -9,8 +9,6 @@
     - [Design & Content](#design-&-content)
     - [SEO](#seo)
     - [Development](#development)
-    - [Functionality + Responsiveness](#functionality-+-responsiveness)
-- [Useful Resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -104,6 +102,12 @@
 <title>Farewell Mother | Grandmother | Friend | Yunuke Bosibori Nyambane</title>
 ```
 
+**robots.txt**
+```
+User-agent: *
+Disallow:
+```
+
 ## Development
 
 #### HTML + CSS + Tailwind Development
@@ -113,9 +117,6 @@
 #### React + Vite Development
 
 - Link - [Farewell Yunuke Bosibori Nyambane]()
-
-## Useful Resources
-
 
 ## Author
 

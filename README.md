@@ -37,10 +37,9 @@
 
 ### Links
 
-- Live Site URL: [Farewell Yunuke Bosibori Nyambane]()
+- [Farewell Yunuke Bosibori Nyambane](https://farewell-bosibori-nyambane.vercel.app/)
 
 ## Author
 
 - Momanyi Brian's Website: - [Momanyi Brian](https://momanyi-brian-portfolio.vercel.app)
-- Frontend Mentor - [@MomanyiPoet](https://www.frontendmentor.io/profile/MomanyiPoet)
 
