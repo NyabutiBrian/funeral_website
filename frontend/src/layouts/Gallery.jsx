@@ -27,6 +27,8 @@ import gallery24 from '../assets/images/gallery24.webp';
 import gallery25 from '../assets/images/gallery25.webp';
 import gallery26 from '../assets/images/gallery26.webp';
 import gallery27 from '../assets/images/gallery27.webp';
+import gallery28 from '../assets/images/gallery28.webp';
+import gallery29 from '../assets/images/gallery29.webp';
 
 const Gallery = () => {
 
@@ -108,6 +110,8 @@ const Gallery = () => {
 
       <div className="p-8">
         <div className="columns-2 md:columns-3 xl:columns-4 [&>img:not(:first-child)]:mt-2 lg:[&>img:not(:first-child)]:mt-4 gap-3 lg:gap-4">
+          <img src={gallery29} alt="Yunuke Bosibori Nyambane" title="Yunuke Bosibori Nyambane" loading="lazy" className="gallery-image transition duration-200 transform hover:scale-105" />
+          <img src={gallery28} alt="Yunuke Bosibori Nyambane" title="Yunuke Bosibori Nyambane" loading="lazy" className="gallery-image transition duration-200 transform hover:scale-105" />
           <img src={gallery27} alt="Yunuke Bosibori Nyambane" title="Yunuke Bosibori Nyambane" loading="lazy" className="gallery-image transition duration-200 transform hover:scale-105" />
           <img src={gallery26} alt="Yunuke Bosibori Nyambane" title="Yunuke Bosibori Nyambane" loading="lazy" className="gallery-image transition duration-200 transform hover:scale-105" />
           <img src={gallery25} alt="Yunuke Bosibori Nyambane" title="Yunuke Bosibori Nyambane" loading="lazy" className="gallery-image transition duration-200 transform hover:scale-105" />
