@@ -18,11 +18,6 @@ const About = () => {
                             Join us as we gather to celebrate the life and legacy of <span className="font-semibold">Yunuke Bosibori Nyambane</span>. With heavy hearts and cherished memories, 
                             we come together to pay our respects and bid farewell to a beloved mother, grand mother and a  friend. <br/><br/>
                             Together, we honor <span className="font-semibold">Yunuke Bosibori</span> enduring impact and the love that will forever remain in our hearts. <br /><br />
-                            As we come together we humbly ask for your assistance in easing the financial burden that accompanies funeral 
-                            arrangements and related expenses. Your contributions will directly support the family of during this difficult time, 
-                            whether through a donation, a kind gesture, or simply by spreading the word, your support will make a meaningful difference. <br/><br/>
-                            For those who wish to contribute kindly contact: <br/>
-                            STELLA NYAMBANE: 0798622935 <br/><br/> 
 
                             {/* <span className='italic text-primary'>(Burial arrangements will be updated soon.)</span> <br /><br /> */}
                           <span className="font-semibold">Birth</span> <br/>  The late Mama Yunuke Bosibori Nyambane was born at Bokiambari Rengenyo Village in the Bosibori Nyambane the daughter to the late Reuben Omae and Rebeee year 1933 she wayakeri,
