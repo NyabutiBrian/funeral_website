@@ -25,6 +25,14 @@ const About = () => {
                             STELLA NYAMBANE: 0798622935 <br/><br/> 
 
                             {/* <span className='italic text-primary'>(Burial arrangements will be updated soon.)</span> <br /><br /> */}
+                          <span className="font-semibold">Birth</span> <br/>  The late Mama Yunuke Bosibori Nyambane was born at Bokiambari Rengenyo Village in the Bosibori Nyambane the daughter to the late Reuben Omae and Rebeee year 1933 she wayakeri,
+                          Moraa, Charles, late EDUE late Nyamwaro, Late She was sister to Nyakeri Me Kingara.
+                          <span className="font-semibold">Education</span><br/>  She went to Tonga Primary school.<br/>
+                          <span className="font-semibold">Marriage</span><br/>  The late mama Yunuke was married to the late Robinson Nyambane in the year 1953 through a church wedding at Tonga Adventist Church and they were blessed with 13 children namely, The late Charles Onduso, Joyce Kerubo, Samuel Omenta, Moses Kengara, Fred Oribo, Benard Ongaga, Florence Moige, Peter Nyanumba, James Mboga, Duke Morara, Joseph Ombogo, Cyrus Kebaso and Stella Omboto.<br/>
+                          <span className="font-semibold">Christian Life</span><br/>  Mama Yunuke was a strong Adventist Christian in all her life.<br/>
+                          <span className="font-semibold">Occupation</span><br/>  She was an active Tea farmer She also grew Pyrethrum and other food crops.<br/>
+                          <span className="font-semibold">Sickness</span><br/>  The late mama Yunuke enjoyed good health until the year 2019 when was diagnosed with a hearth condition. She was under care of a Cuban Doctor (Cardiologist) at Nyamira referral Hospital. On 17th February she fell ill and was rushed to Christa Marianne Hospital where she was admitted Her condition worsened and on the 22nd at 6:00 pm she died of heart failure at the age of 91 yrs. She has left behind 9 sons, 3 daughters, 40 grand children and 20 great grand children. Rest easy till we meet again. May her Soul Rest In Peace.<br/><br/>
+                          
                             
                             Thank you for your generosity and for standing with us during this time of mourning.</p>
                     </div>
