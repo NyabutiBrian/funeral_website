@@ -35,7 +35,7 @@ npx tailwindcss init -p
 npm install react-router-dom
 npm i -D daisyui@latest
 npm i @vercel/analytics
-npm install aos --save
+npm i react-player
 
 # Tailwind directives to your CSS.
 @tailwind base;

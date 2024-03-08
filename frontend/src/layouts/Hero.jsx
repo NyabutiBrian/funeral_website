@@ -12,7 +12,7 @@ const Hero = () => {
                     <h1 className="text-4xl lg:text-5xl">YUNUKE</h1>
                     <h1 className="text-4xl lg:text-5xl">BOSIBORI</h1>
                     <h1 className="text-4xl lg:text-5xl">NYAMBANE</h1>
-                  <h1 className="text-4xl lg:text-5xl">1933 - 2024</h1>
+                    <h1 className="text-4xl lg:text-5xl">1933 - 2024</h1>
                 </div>
             </div>
 
